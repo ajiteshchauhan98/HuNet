@@ -1,2 +1,2 @@
-# django-test
+# Hunet - test
 just a simple test .....
